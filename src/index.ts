@@ -1,5 +1,5 @@
-// import crypto from "crypto";
-import * as crypto from "crypto";
+import crypto from "crypto";
+// import * as crypto from "crypto";
 
 interface BlockShape {
     hash: string;
