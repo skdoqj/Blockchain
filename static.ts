@@ -1,0 +1,3 @@
+class foo{
+    public static
+}
